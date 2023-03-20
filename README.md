@@ -1,6 +1,6 @@
 ## Rabbits Sim
 
-A Unity Project, simulating animals foraging for food.
+A Unity Project, simulating animals foraging for food. Animals have different genes, and use a genetic algorithm to adapt.
 
 * Generates a terrain
 * Clicking spawns rabbits
