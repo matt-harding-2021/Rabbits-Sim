@@ -1,0 +1,22 @@
+#GENES
+Move Speed:100
+Turn Speed:100
+Number of Raycasts:100
+Raycast Angle:100
+Raycast Distance:100
+Detection Sphere Radius:100
+Lévy Tendency:100
+Eating Greens:100
+Eating Whites:100
+Eating Reds:100
+Hunger Rate:100
+Hunger Max:100
+Hunger Recovery:100
+Aging Rate:100
+Aging Max:100
+Gender:100
+
+#PARENTS
+Parent0
+Parent1
+
