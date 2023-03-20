@@ -1,4 +1,5 @@
-#
+## Rabbits Sim
+
 A Unity Project, simulating animals foraging for food.
 
 * Generates a terrain
