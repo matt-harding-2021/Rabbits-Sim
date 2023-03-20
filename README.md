@@ -6,3 +6,5 @@ A Unity Project, simulating animals foraging for food. Animals have different ge
 * Clicking spawns rabbits
 * Mouse Wheel: Zooms in and out
 * Arrow Keys: Pans camera
+
+In Unity, select a scene in the Assets folder.
