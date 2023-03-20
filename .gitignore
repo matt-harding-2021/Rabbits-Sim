@@ -60,3 +60,4 @@ crashlytics-build.properties
 
 # Log files
 [Aa]ssets/Data/DataLog/
+[Aa]ssets/Data/Rabbit*.txt
